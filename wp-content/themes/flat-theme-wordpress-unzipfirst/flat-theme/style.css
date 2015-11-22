@@ -1779,6 +1779,7 @@ ul#menu-company-menu li:before{
 /**** Services Section ****/
 .media.services {
   background-color: #2ecc71;
+  border-radius: 10px;
   padding: 20px;
   height: 350px;
 }
@@ -1791,7 +1792,11 @@ ul#menu-company-menu li:before{
   width: 100px;
   height: 100px;
   background: #FFF;
-  margin: 0 auto;
+  /*margin: 0 auto;*/
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-right: auto;
+  margin-left: auto;
   -moz-border-radius: 50px;
   -webkit-border-radius: 50px;
   border-radius: 50px;
